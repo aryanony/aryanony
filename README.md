@@ -1,3 +1,5 @@
+![logo](https://github.com/aryanony/aryanony/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm called Aryan Raj</h1>
 <h3 align="center">🌟 Web3 Developer & Spiritual Explorer 🌌 | Astrology Enthusiast ⭐ | Psychology Aficionado 🧠 | Business Analyst 📊 | Seeker of Hidden Truths 🔍 | Creative Coder & Digital Artist 🎨 | Unraveling the Mysteries of the Universe, One Line of Code at a Time! 💻✨</h3>
 
