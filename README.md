@@ -1,6 +1,6 @@
 ![logo](https://github.com/aryanony/aryanony/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm called Aryan Raj</h1>
+<h1 align="center">Hey 👋, This is Aryan Gupta</h1>
 <h3 align="center">🌟 Web3 Developer & Spiritual Explorer 🌌 | Astrology Enthusiast ⭐ | Psychology Aficionado 🧠 | Business Analyst 📊 | Seeker of Hidden Truths 🔍 | Creative Coder & Digital Artist 🎨 | Unraveling the Mysteries of the Universe, One Line of Code at a Time! 💻✨</h3>
 
 <img align="right"  alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Web3 Projects**
 
-- 👨‍💻 All of my projects are available at [https://aryanony-dev.web.app/](https://aryanony-dev.web.app/)
+- 👨‍💻 All of my projects are available at [https://aryanony.github.io/portfolio/](https://aryanony.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@aryanony](https://medium.com/@aryanony)
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **aryanraj@engineer.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EsAEqeIW3-8T1ZcjAR2otIOPSJR9QpbC/view](https://drive.google.com/file/d/1EsAEqeIW3-8T1ZcjAR2otIOPSJR9QpbC/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1com444qG3biwuz2l-Al9DJTkQTyaXq9b/view](https://drive.google.com/file/d/1com444qG3biwuz2l-Al9DJTkQTyaXq9b/view)
 
 - ⚡ Fun fact **🌌 By day, I'm a web developer 🌞, and by night, I'm a seeker of spiritual wisdom and hidden truths 🌙. With a deep understanding of astrology ⭐, psychology 🧠, and business analytics 📊, I enjoy exploring new realms of knowledge and unraveling the mysteries of the universe. Whether it's analyzing people's behavior 🕵️, delving into the psychology of decision-making 🤔, or identifying the drawbacks in business strategies 📉, I'm always up for a stimulating intellectual adventure!**
 
