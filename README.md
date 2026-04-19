@@ -1,6 +1,6 @@
 ![logo](https://github.com/aryanony/aryanony/blob/main/banner.png)
 
-<h1 align="center">Hey 👋, This is Aryan Gupta</h1>
+<h1 align="center">Hey 👋, This is Aaryan Gupta</h1>
 <h3 align="center">🌟 Web3 Developer & Spiritual Explorer 🌌 | Astrology Enthusiast ⭐ | Psychology Aficionado 🧠 | Business Analyst 📊 | Seeker of Hidden Truths 🔍 | Creative Coder & Digital Artist 🎨 | Unraveling the Mysteries of the Universe, One Line of Code at a Time! 💻✨</h3>
 
 <img align="right"  alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
