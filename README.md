@@ -9,20 +9,28 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B6E68,100:0D8C84&text=AARYAN%20GUPTA&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Technical%20Project%20Manager%20|%20AI%20%26%20HealthTech&descAlignY=55&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B6E68,100:0D8C84&text=AARYAN%20GUPTA&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Technical%20Project%20Manager%20%7C%20AI%20%26%20HealthTech&descAlignY=55&descSize=14" width="100%" alt="header" />
 </div>
 
+<!-- Animated typing section (reliable, no external dependency) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D8C84&center=true&vCenter=true&width=600&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+%E2%80%A2+20%2B+projects+managed;Developer-turned-PM+%E2%80%A2+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00E8A8&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+%E2%80%A2+20%2B+projects+managed;Developer-turned-PM+%E2%80%A2+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0D8C84&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+%E2%80%A2+20%2B+projects+managed;Developer-turned-PM+%E2%80%A2+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles" alt="Typing animation" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanony&label=Profile%20Views&color=0D8C84&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aryanony?label=Followers&style=flat-square&color=0D8C84" alt="followers" />
-  <img src="https://img.shields.io/badge/📍%20Jaipur%20%26%20Ahmedabad-Priority%20Markets-0B6E68?style=flat-square" alt="location" />
-  <a href="https://linkedin.com/in/aryanony"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="https://x.com/aryanony"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x" /></a>
-</p>
+<!-- Badges row - responsive flex wrap -->
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=aryanony&label=Profile%20Views&color=0D8C84&style=flat-square" alt="views" />
+    <img src="https://img.shields.io/github/followers/aryanony?label=Followers&style=flat-square&color=0D8C84" alt="followers" />
+    <img src="https://img.shields.io/badge/📍%20Jaipur%20%26%20Ahmedabad-Priority%20Markets-0B6E68?style=flat-square" alt="location" />
+    <a href="https://linkedin.com/in/aryanony"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+    <a href="https://x.com/aryanony"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x" /></a>
+    <a href="https://aryanony.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D8C84?style=flat-square&logo=vercel" /></a>
+  </p>
+</div>
 
 ---
 
