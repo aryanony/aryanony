@@ -12,7 +12,7 @@
 <!-- Simple text banner (never fails) -->
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/aryanony/aryanony/main/assets/logo.svg" width="40" style="vertical-align: middle;" />
+    <!-- <img src="https://raw.githubusercontent.com/aryanony/aryanony/main/assets/logo.svg" width="40" style="vertical-align: middle;" /> -->
     AARYAN GUPTA
   </h1>
   <h3><i>Technical Project Manager · AI & HealthTech · Developer‑turned‑PM</i></h3>
