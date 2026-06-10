@@ -16,6 +16,14 @@
     AARYAN GUPTA
   </h1>
   <h3><i>Technical Project Manager · AI & HealthTech · Developer‑turned‑PM</i></h3>
+  <!-- <p>
+    <img src="https://komarev.com/ghpvc/?username=aryanony&label=Profile%20Views&color=0D8C84&style=flat-square" alt="views" />
+    <img src="https://img.shields.io/github/followers/aryanony?label=Followers&style=flat-square&color=0D8C84" alt="followers" />
+    <img src="https://img.shields.io/badge/📍%20Jaipur%20%26%20Ahmedabad-Priority%20Markets-0B6E68?style=flat-square" alt="location" />
+    <a href="https://linkedin.com/in/aryanony"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+    <a href="https://x.com/aryanony"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x" /></a>
+    <a href="https://aryanony.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D8C84?style=flat-square&logo=vercel" /></a>
+  </p> -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=aryanony&label=Profile%20Views&color=0D8C84&style=flat-square" alt="views" />
     <img src="https://img.shields.io/github/followers/aryanony?label=Followers&style=flat-square&color=0D8C84" alt="followers" />
@@ -27,9 +35,9 @@
 </div>
 
 <!-- Typing animation – using official service with fallback text -->
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00E8A8&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+•+20%2B+projects+managed;Developer-turned-PM+•+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products" alt="Typing SVG" />
-</div>
+<!-- <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E8A8&center=true&vCenter=true&width=750&lines=Technical+Project+Manager+%7C+Dev-Turned-PM;70%2B+markets+delivered+%7C+20%2B+projects+managed;I+bridge+complex+tech+%26+seamless+execution;Health-Tech+%7C+SaaS+%7C+AI+Products;MCA+(AKTU+2025)+%7C+React+%7C+Node+%7C+LLMs;Open+for+freelance+%26+full‑time+roles" alt="Typing SVG" />
+</div> -->
 <!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=00E8A8&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+•+20%2B+projects+managed;Developer-turned-PM+•+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles">
@@ -37,8 +45,13 @@
   </picture>
 </p> -->
 
+<!-- Typing animation – using reliable herokuapp service -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=800&color=00E8A8&center=true&vCenter=true&width=700&lines=Technical+Project+Manager+%7C+Dev-Turned-PM;I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+•+20%2B+projects+managed;Developer-turned-PM+•+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles" alt="Typing SVG">
+
+
 <!-- Fallback plain text (visible only if SVG fails) -->
-<noscript>
+<!-- <noscript>
   <p align="center">
     <strong>I bridge complex technology with seamless execution<br>
     70+ markets delivered • 20+ projects managed<br>
@@ -46,7 +59,7 @@
     Health-Tech | SaaS | AI Products<br>
     Open for freelance & full‑time roles</strong>
   </p>
-</noscript>
+</noscript> -->
 
 ---
 
