@@ -1,4 +1,4 @@
-<!-- ASCII Art Header (works even if images fail) -->
+<!-- ASCII Art Header (always visible, zero external dependencies) -->
 <!--
   █████╗ █████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗
  ██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
@@ -9,21 +9,35 @@
   Technical Project Manager | AI · HealthTech · SaaS
 -->
 
-<!-- Banner with fallback color -->
+<!-- Simple text banner (never fails) -->
 <div align="center">
-  <picture>    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B6E68,100:0D8C84&text=AARYAN%20GUPTA&fontColor=FFFFFF&fontSize=40&fontAlignY=35&desc=Technical%20Project%20Manager%20%7C%20AI%20%26%20HealthTech&descAlignY=55&descSize=14">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B6E68,100:0D8C84&text=AARYAN%20GUPTA&fontColor=FFFFFF&fontSize=40&fontAlignY=35&desc=Technical%20Project%20Manager%20%7C%20AI%20%26%20HealthTech&descAlignY=55&descSize=14" alt="Aaryan Gupta header" width="100%">
-  </picture>
+  <h1>
+    <img src="https://raw.githubusercontent.com/aryanony/aryanony/main/assets/logo.svg" width="40" style="vertical-align: middle;" />
+    AARYAN GUPTA
+  </h1>
+  <h3><i>Technical Project Manager · AI & HealthTech · Developer‑turned‑PM</i></h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=aryanony&label=Profile%20Views&color=0D8C84&style=flat-square" alt="views" />
+    <img src="https://img.shields.io/github/followers/aryanony?label=Followers&style=flat-square&color=0D8C84" alt="followers" />
+    <img src="https://img.shields.io/badge/📍%20Jaipur%20%26%20Ahmedabad-Priority%20Markets-0B6E68?style=flat-square" alt="location" />
+    <a href="https://linkedin.com/in/aryanony"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
+    <a href="https://x.com/aryanony"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x" /></a>
+    <a href="https://aryanony.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D8C84?style=flat-square&logo=vercel" /></a>
+  </p>
 </div>
 
-<!-- Typing Animation – using official service with better reliability -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=00E8A8&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+•+20%2B+projects+managed;Developer-turned-PM+•+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles" alt="Typing SVG">
-  </a>
-</p>
+<!-- Typing animation – using official service with fallback text -->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00E8A8&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+•+20%2B+projects+managed;Developer-turned-PM+•+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products" alt="Typing SVG" />
+</div>
+<!-- <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=00E8A8&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+•+20%2B+projects+managed;Developer-turned-PM+•+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=0D8C84&center=true&vCenter=true&width=700&lines=I+bridge+complex+technology+with+seamless+execution;70%2B+markets+delivered+•+20%2B+projects+managed;Developer-turned-PM+•+MCA+(AKTU+2025);Health-Tech+%7C+SaaS+%7C+AI+Products;Open+for+freelance+%26+full‑time+roles" alt="Typing SVG">
+  </picture>
+</p> -->
 
-<!-- Fallback plain text in case SVG fails (hidden on normal screens, visible if image missing) -->
+<!-- Fallback plain text (visible only if SVG fails) -->
 <noscript>
   <p align="center">
     <strong>I bridge complex technology with seamless execution<br>
@@ -34,23 +48,12 @@
   </p>
 </noscript>
 
-<!-- Responsive badge row (wraps on mobile) -->
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=aryanony&label=Profile%20Views&color=0D8C84&style=flat-square" alt="views">
-    <img src="https://img.shields.io/github/followers/aryanony?label=Followers&style=flat-square&color=0D8C84" alt="followers">
-    <img src="https://img.shields.io/badge/📍%20Jaipur%20%26%20Ahmedabad-Priority%20Markets-0B6E68?style=flat-square" alt="location">
-    <a href="https://linkedin.com/in/aryanony"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://x.com/aryanony"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x" alt="X"></a>
-    <a href="https://aryanony.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D8C84?style=flat-square&logo=vercel" alt="Portfolio"></a>
-  </p>
-</div>
-
 ---
 
 ## 🧠 Who I Am
 
-> **Technical Project Manager** with a software engineering backbone (React/Node) and a passion for **Health‑Tech**. I manage the gap between what gets built and what actually works.
+> **Technical Project Manager** with a software engineering backbone (React/Node) and a passion for **Health‑Tech**.  
+> I manage the gap between what gets built and what actually works.
 
 - 🏥 **Specialization:** Health‑Tech, SaaS, AI products – serving doctors, clinics, and global startups.
 - 🌍 **Global footprint:** Delivered projects across **70+ international markets** (India, UAE, UK, USA, Europe, SEA).
@@ -60,57 +63,80 @@
 
 ---
 
-## 🔧 Technical Proficiency
+## 🔧 Technical Proficiency (Graphical View)
 
-| Category | Skills & Tools |
-|----------|----------------|
-| **Project Management** | Jira, Notion, Trello, Asana, Miro, Agile/Scrum, Sprint Planning, Backlog Grooming, Risk Management, QA Governance |
-| **Frontend** | React.js, TypeScript, Tailwind CSS, Bootstrap, HTML5/CSS3, JavaScript (ES6+), Responsive Design, Web3/dApp |
-| **Backend & DB** | Node.js, Express.js, MongoDB, MySQL, Firebase, REST APIs, PHP (basics), Laravel (basics) |
-| **AI & Automation** | Prompt Engineering, OpenAI/Claude API, Botpress, LLM Integration, n8n, Make/Zapier, WhatsApp Automation |
-| **DevOps & Tools** | Git, GitHub, Vercel, Linux (Debian), Docker (concepts), CI/CD basics, VPS Setup (Hostinger), cPanel |
-| **Design & Marketing** | Figma, UI/UX Wireframing, Brand Strategy, SEO, Google Analytics 4, Search Console, WordPress, Shopify |
+<!-- Skill bars using HTML/CSS – fully supported on GitHub -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <strong>Project Management</strong><br>
+      <progress value="95" max="100"></progress> 95%<br>
+      <em>Agile, Scrum, Jira, Notion</em>
+    </td>
+    <td width="50%">
+      <strong>Frontend Development</strong><br>
+      <progress value="90" max="100"></progress> 90%<br>
+      <em>React, TypeScript, Tailwind</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Backend & APIs</strong><br>
+      <progress value="85" max="100"></progress> 85%<br>
+      <em>Node, Express, MongoDB, REST</em>
+    </td>
+    <td>
+      <strong>AI & Automation</strong><br>
+      <progress value="88" max="100"></progress> 88%<br>
+      <em>Prompt Engineering, LLMs, n8n</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>DevOps & Cloud</strong><br>
+      <progress value="75" max="100"></progress> 75%<br>
+      <em>Git, Vercel, Linux, Docker (basic)</em>
+    </td>
+    <td>
+      <strong>Digital Marketing & SEO</strong><br>
+      <progress value="80" max="100"></progress> 80%<br>
+      <em>GA4, Search Console, Content Strategy</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Experience Timeline (Graphical)
+
+<div align="center">
+
+| Period | Role | Company | Key Impact |
+|--------|------|---------|-------------|
+| May 2026 – present | **Associate Project Manager** | Oblinex Pvt. Ltd. | 70+ markets, end‑to‑end delivery |
+| Apr 2025 – Feb 2026 | Frontend Web3 Developer Intern | MyDigiShell | 11‑month Web3 coordination |
+| Nov 2021 – Mar 2022 | Digital Marketer & E‑Commerce Strategist | Elipact Enterprises | SEO + conversion optimisation |
+| Aug 2021 – Nov 2021 | Web Developer & WordPress Specialist | Ipistis + Startup Support | 10+ client websites |
+
+</div>
 
 ---
 
 ## 📌 Signature Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://projectsport.vercel.app/">
-          <img src="https://img.shields.io/badge/ProjectPort-Live-0D8C84?style=for-the-badge&logo=vercel" />
-        </a><br />
-        <b>Full‑stack automation platform</b><br />
-        <sub>React · Node · MongoDB · Tailwind</sub><br />
-        <img src="https://img.shields.io/github/stars/aryanony/ProjectPort?style=flat-square&logo=github" />
-        <img src="https://img.shields.io/github/last-commit/aryanony/ProjectPort?style=flat-square" />
-      </td>
-      <td align="center" width="33%">
-        <a href="https://uibrium.vercel.app/">
-          <img src="https://img.shields.io/badge/UiBrium-NPM%20Published-0D8C84?style=for-the-badge&logo=npm" />
-        </a><br />
-        <b>React UI component library</b><br />
-        <sub>TypeScript · Radix UI · Framer Motion</sub><br />
-        <img src="https://img.shields.io/npm/dt/uibrium?style=flat-square&logo=npm" />
-        <img src="https://img.shields.io/github/stars/aryanony/uibrium?style=flat-square" />
-      </td>
-      <td align="center" width="33%">
-        <a href="#">
-          <img src="https://img.shields.io/badge/AI%20Assistant-Deployed-0D8C84?style=for-the-badge&logo=botpress" />
-        </a><br />
-        <b>Conversational AI Agent</b><br />
-        <sub>Botpress · LLM API · Prompt Engineering</sub><br />
-        <img src="https://img.shields.io/badge/demo-request-blue?style=flat-square" />
-      </td>
-    </tr>
-  </table>
+
+| Project | Tech Stack | Status | Links |
+|---------|-----------|--------|-------|
+| **ProjectPort** | React, Node, MongoDB, Tailwind | Live | [View](https://projectsport.vercel.app/) · [GitHub](https://github.com/aryanony/ProjectPort) |
+| **UiBrium** | TypeScript, Radix UI, Framer Motion | NPM Published | [Docs](https://uibrium.vercel.app/) · [NPM](https://www.npmjs.com/package/uibrium) |
+| **AI Assistant** | Botpress, OpenAI API, Prompt Eng. | Deployed | [Demo Request](mailto:aryanrajk63@gmail.com) |
+
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics (Live)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanony&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=0D8C84&icon_color=0D8C84" />
@@ -130,10 +156,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section is auto-updated by GitHub Action – see setup guide below -->
+<!-- This section is automatically updated by GitHub Action. 
+     If you see this text, the action hasn't run yet. -->
 <!-- BLOG-POST-LIST:END -->
 
-*👉 Check out my [Medium](https://medium.com/@aryanony) or [Hashnode](https://hashnode.com/@aryanony) for deep dives into PM, AI, and Health‑Tech.*
+*👉 Read more on [Medium](https://medium.com/@aryanony) or [Hashnode](https://hashnode.com/@aryanony)*
 
 ---
 
@@ -151,6 +178,4 @@
   <sub>⚡ "On‑time, on‑scope, no technical chaos."</sub>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0B6E68,0D8C84&section=footer&reversal=false" width="100%" />
-</div>
+<!-- Footer wave (optional, but may fail – removed for reliability) -->
