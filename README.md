@@ -143,7 +143,7 @@
 |---------|-----------|--------|-------|
 | **ProjectPort** | React, Node, MongoDB, Tailwind | Live | [View](https://projectsport.vercel.app/) · [GitHub](https://github.com/aryanony/ProjectPort) |
 | **UiBrium** | TypeScript, Radix UI, Framer Motion | NPM Published | [Docs](https://uibrium.vercel.app/) · [NPM](https://www.npmjs.com/package/uibrium) |
-| **AI Assistant** | Botpress, OpenAI API, Prompt Eng. | Deployed | [Demo Request](mailto:aryanrajk63@gmail.com) |
+| **AI Assistant** | Botpress, OpenAI API, Prompt Eng. | Deployed | [Demo Request](mailto:aaryangupta.pm@gmail.com) |
 
 </div>
 
@@ -182,7 +182,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/aryanony"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/aryanony"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:aryanrajk63@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aaryangupta.pm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://aryanony.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D8C84?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
